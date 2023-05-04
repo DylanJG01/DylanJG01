@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello! I'm Dylan!
+
+ I'm a full stack engineer interested in problem solving and doing some good in the process.
+ I like stories, music, games, math, computers, elephants, and more.
+ 
+ I intend to show off my projects when I touch them up a touch... more. 
 
 <!--
 **DylanJG01/DylanJG01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 -->
