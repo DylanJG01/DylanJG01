@@ -1,9 +1,11 @@
 ### Hello! I'm Dylan!
 
  I'm a full stack engineer interested in problem solving and doing some good in the process.
- I like stories, music, games, math, computers, elephants, and more.
+ I spend most of my free time either listening to books, playing games, going on walks, watching either educational or entertainment (or hopefully both) things on youtube.
  
- I intend to show off my projects when I touch them up a touch... more. 
+ My working current technologies are 
+ [![My Skills](https://skillicons.dev/icons?i=js,py,react,redux,html,css,express,flask,github,postgres,sequelize)](https://skillicons.dev)
+
 
 <!--
 **DylanJG01/DylanJG01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
