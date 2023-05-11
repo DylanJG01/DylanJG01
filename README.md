@@ -4,7 +4,7 @@
  I spend most of my free time either listening to books, playing games, going on walks, watching either educational or entertainment (or hopefully both) things on youtube.
  
  My working current technologies are 
- [![My Skills](https://skillicons.dev/icons?i=js,py,react,redux,html,css,express,flask,github,postgres,sequelize)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,py,react,redux,html,css,express,flask,postgres,sequelize)](https://skillicons.dev)
 
 
 <!--
